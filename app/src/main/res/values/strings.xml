@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Coffee Bay</string>
+    <string name="description">A small cafe in Athens, dedicated to refreshing a person\'s day by serving only the freshest and most delicious coffee.</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number" translatable="false"><a href="tel:+30211234567">211234567</a></string>
+    <string name="address">Andronikou 1234 \nAthens, Greece</string>
+    <string name="website" translatable="false"><a href="http://www.cremeroyale.gr/">www.coffeebay.gr</a></string>
+    <string name="opening_hours">Open: 6:00AM - 12:00AM</string>
+
+    <string name="about">This app was created as an assignment for the Udacity Android Developers scholarship. \n\nThe business portrayed doesn\'t really exist, so don\'t bother visiting. \n\n</string>
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="email_button">Got a question?</string>
+    <string name="no_email_client">There is no email client installed on this device.</string>
+    <string name="email_address" translatable="false">info@coffeebay.gr</string>
+</resources>
