@@ -2,7 +2,7 @@
 <resources>
     <string name="about">Η εφαρμογή αυτή αποτελεί παραδωτέο για το πρώτο Project της Ευρωπαϊκής υποτροφίας εκμάθησης Android του Udacity. Η επιχείρηση που προβάλλεται δεν υπάρχει στην πραγματικότητα, οπότε μην χάσετε τον χρόνο σας επισκέπτοντάς στην.</string>
     <string name="action_settings">Ρυθμίσεις</string>
-    <string name="address">Ελευθερίου Βενιζέλου 136, Καλλιθέα 17676</string>
+    <string name="address">Ανδρονίκου 1234 \nΑθήνα, Ελλάδα</string>
     <string name="description">Μια μικρή καφετέρια στην Αθήνα, που σκοπό της έχει να σας ανανεώνει την μέρα προσφέροντάς σας τον πιο φρέσκο γευστικό καφέ.</string>
     <string name="email_button">Έχετε κάποια ερώτηση;</string>
     <string name="opening_hours">Ανοιχτό 6:00ΠΜ - 12:00ΠΜ</string>
