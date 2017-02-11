@@ -44,7 +44,7 @@
             android:gravity="center_vertical"
             android:layout_weight="1"
             android:autoLink="map"/>
-        <!-- Both the phone and website textviews are styled with "TextView_With_Drawable" (see styles.xml). This centers the drawable on the left side. -->
+        <!-- The phone, website and opening hours textviews are styled with "TextView_With_Drawable" (see styles.xml). This centers the drawable on the left side. -->
         <TextView
             android:text="@string/phone_number"
             android:layout_width="wrap_content"
